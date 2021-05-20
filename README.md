@@ -4,7 +4,8 @@
 The purpose of this project was to use unsupervised learning to explore trends in the Jeopardy gameshow over a 27 year period (from 1984-2011). 
 
 # Data
-The data included Jeopardy 216,930 questions and was retrieved from this site: https://www.reddit. com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/
+The data included Jeopardy 216,930 questions and was retrieved from this site: 
+https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/
 
 # Overview of Methods/Modeling Process
 1. Cleaned, tokenized, and lemmatized text using spaCy. 
